@@ -1,0 +1,2 @@
+.todos{flex-wrap:wrap;justify-content:center;list-style:none}.todos,.todos__item{display:flex;grid-gap:20px;gap:20px}.todos__item{flex-direction:column;padding:20px;width:300px;border:3px solid #00008b;border-radius:8px}.todos__name{font-weight:700;color:#00008b}.todos__email{color:#5a5a5a}body{font-family:Arial,Helvetica,sans-serif}h2,li,p,ul{padding:0;margin:0}
+/*# sourceMappingURL=main.4b6ba937.chunk.css.map */
